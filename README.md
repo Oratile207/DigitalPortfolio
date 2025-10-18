@@ -71,32 +71,32 @@
 * **S:** I completed an interview skills module and realised I was really unprepared to handle job a interview processes.
 * **T:** My aim was to understand how to present myself, answer questions confidently and be able to leave a good impression at the end of a real interview.
 * **A:** I practiced answering questions using the STAR method, fixed my posture and also researched the types of questions interviewers ussually ask.
-* **R:** I now know how to sell my skills cleary and prefessionally, and also how to prepare properly for real interviews in the future.
+* **R:** I now know how to sell my skills cleary and professionally, and also how to prepare properly for real interviews in the future.
 
 ## MOCK INTERVIEW
 ### Evidence
 ![image](https://github.com/user-attachments/assets/2a05624d-36fc-4a17-bb9b-3d0a73dbc603)
 ### Reflection
-* **S:** 
-* **T:** 
-* **A:** 
-* **R:** 
+* **S:** I participated in a mock interview that simulated  how a real job interview would go about.
+* **T:** I needed to present myself professionally,be able to answer questions clearly and confindently.
+* **A:** I treated the task like a real interview by dressing professionally, listening attentively and answering in a calm and respectful manner. I also listened to the feedback and took note of where I should improve.
+* **R:** The feedback I received was motivating and it showed me where i still need to work on like thinking fast when answering questions and raising my voice to sound more confident when answering.
 
 ## PROFESSIONAL NETWORKING
 ### Evidence
 ![image](https://github.com/user-attachments/assets/fcc9f33e-b181-408a-b0a8-9295946dc32b)
 ### Reflection
-* **S:** 
-* **T:** 
-* **A:** 
-* **R:** 
+* **S:** I participated in a networking event recently to see and understand what really happens and why such events take place.
+* **T:** My goal was to connect with others in a professional way and learn how networking can be beneficial for my career.
+* **A:** I approached other people with a friendly smile and introduced myself confidently. I connected with people in my field and aimed to connect with them on social platforms or even get their business cards by the end of our conversations.
+* **R:** I realized networking isn't just about getting a job only but building social skills and real connections too.
 
 ## WORKPLACE ETIQUETTE
 ### Evidence
 ![image](https://github.com/user-attachments/assets/7fd3df69-003d-4d5d-a7dc-014edc463cb1)
 ### Reflection
-* **S:** 
-* **T:** 
-* **A:** 
-* **R:**
-  
+* **S:** I completed a module on Workplace Etiquette which talks about the importance of behaving professionally and respectfully in a work environment.
+* **T:** My goal was to show understanding of proper workplace conduct,teamwork and professional behaviour. 
+* **A:** I practiced being punctual,communicating in a respectful tone and being active in group work.
+* **R:** I now understand how being professional can benefit my work and my working environment. Simple things such as being on time, communicating openly and politely do make a big difference.
+
